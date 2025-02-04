@@ -14,4 +14,6 @@ DATE:-28-01-25 TOPICS COVERED:- *Learned java string handling basic concepts, co
 
 DATE:-30-01-25 TOPICS COVERED:- *Procedural Programming vs OOP, concept of class and object.
 
-DATE:-31-01-25 TOPICS COVERED:- *Java Constructors, Instance vs Class variables and access modifiers concepts.
+DATE:-02-02-25 TOPICS COVERED:- *Java Constructors, Instance vs Class variables and access modifiers concepts.
+
+DATE:- 04-02-25 TOPICS COVERED:- *Learned This Keyword,Static , Final , instanceof Operator
