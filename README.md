@@ -23,3 +23,5 @@ DATE:-04-02-25 TOPICS COVERED:- *Learned class diagrams, object diagrams, sequen
 DATE:-06-02-25 TOPICS COVERED:- *Learned types of inheritance:- single, multilevel, hierarchical, constructor inheritance and key features of inheritance, method overriding.
 
 DATE:-08-02-25 TOPICS COVERED:- *Learned about encapsulation, polymorphism, use of interface and use of abstract classes.
+
+DATE:-10-02-25 TOPICS COVERED:- *Learned about Data Structure ,Key Features of Data Structures, Types of Data Structures, Single , Double, Circular Linked List.
