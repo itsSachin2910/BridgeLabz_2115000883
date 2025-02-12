@@ -18,7 +18,7 @@ DATE:-02-02-25 TOPICS COVERED:- *Java Constructors, Instance vs Class variables 
 
 DATE:-04-02-25 TOPICS COVERED:- *Learned the use of this, final and static keyword and methods and instanceof operator.
 
-DATE:-04-02-25 TOPICS COVERED:- *Learned class diagrams, object diagrams, sequence diagrams and aggregation and association.
+DATE:-06-02-25 TOPICS COVERED:- *Learned class diagrams, object diagrams, sequence diagrams and aggregation and association.
 
 DATE:-07-02-25 TOPICS COVERED:- *Learned types of inheritance:- single, multilevel, hierarchical, constructor inheritance and key features of inheritance, method overriding.
 
