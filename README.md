@@ -28,4 +28,4 @@ DATE:-12-02-25 TOPICS COVERED:- *Learned about Data Structure ,Key Features of 
 
 DATE:-13-02-25 TOPICS COVERED:- *Learned about Stack, Queues and HashMap
 
-DATE:-14-02-25 TOPICS COVERED:-
+DATE:-14-02-25 TOPICS COVERED:- *Learned about Sorting Algorithms like merge sort, quick sort, insertion sort, bubble sort, counting sort, selection sort.
