@@ -34,4 +34,7 @@ DATE:-16-02-25 TOPICS COVERED:- *Learned about StringBuilder, StringBuffer, File
 
 DATE:-17-02-25 TOPICS COVERED:- *Learned about General Algorithm Best Practices, Time and space Complexity Optimization.
 
+DATE:-17-02-25 TOPICS COVERED:- *Learned about Generics, Type Parameter, Generic Classes, Generic Method, Bounded Type Parameters, Wildcards.
+
+
 
