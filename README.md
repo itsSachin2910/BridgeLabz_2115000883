@@ -36,6 +36,6 @@ DATE:-17-02-25 TOPICS COVERED:- *Learned about General Algorithm Best Practices,
 
 DATE:-18-02-25 TOPICS COVERED:- *Learned about Generics, Type Parameter, Generic Classes, Generic Method, Bounded Type Parameters, Wildcards.
 
-DATE:-19-02-25 TOPICS COVERED:- *Learned about Collections Framework, What is the Collections Framework?, Hierarchy of Collections Framework, List Interface and Implementing Classes, Set Interface and Implementing Classes, Queue and Deque Interfaces, Map Interface and Its Implementations, Comparison of Different Implementations
+DATE:-20-02-25 TOPICS COVERED:- *Learned about Collections Framework, What is the Collections Framework?, Hierarchy of Collections Framework, List Interface and Implementing Classes, Set Interface and Implementing Classes, Queue and Deque Interfaces, Map Interface and Its Implementations, Comparison of Different Implementations
 
 
