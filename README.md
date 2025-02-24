@@ -40,5 +40,15 @@ DATE:-19-02-25 TOPICS COVERED:- *Learned about Collections Framework, What is th
 
 DATE:-20-02-25 TOPICS COVERED:- *Learned about Java I/O Streams, Types of Streams:- File Streams, Object Streams, ByteArray Streams, Buffered Streams, Reader and Writer, Key Consideration, Best Practices
 
-DATE:-21-02-25 TOPICS COVERED:- *Learned about Exceptions and Exception Handling in java
+DATE:-21-02-25 TOPICS COVERED:- *Learned about Exceptions and Exception Handling in java.
+
+DATE:-22-02-25 TOPICS COVERED:- *Learned about Regex , MetaCharacter, Quantifier, Common Patterns:- Email Validation, Password Strength, Phone Number Format 
+Java Regex API :- Pattern, Matcher
+Methods:- find(), matches(), eplaceAll()
+Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structure of a Test Class
+
+
+DATE:-24-02-25 TOPICS COVERED:- *Learned about Annotations, Common Built-in Annotations, Creating Custom Annotations, Advanced Custom, Annotations, Real-World Use Cases, Annotation Processing Tools.
+Reflection,Understanding of Reflection,Using Reflection in Java, Annotations and Reflection.
+
 
