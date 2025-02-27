@@ -51,4 +51,8 @@ Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structur
 DATE:-24-02-25 TOPICS COVERED:- *Learned about Annotations, Common Built-in Annotations, Creating Custom Annotations, Advanced Custom, Annotations, Real-World Use Cases, Annotation Processing Tools.
 Reflection,Understanding of Reflection,Using Reflection in Java, Annotations and Reflection.
 
+DATE:-25-02-25 TOPICS COVERED:- *Learned Introduction to CSV, Reading CSV Files, Writing CSV Files, Parsing CSV Data, Data Validation
+
+DATE:-26-02-25 TOPICS COVERED:- *Learned Introduction to JSON, Reading JSON Data, Writing JSON Data, Parsing JSON Data, JSON Schema Validation
+
 
